@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import LEDRGB as LED
 import time
 import random
-# this script appends a value to a list
+# this script appends a value to a list.
 colors = ['R', 'G', 'B', 'Y']
 R_pin = 11
 G_pin = 12
